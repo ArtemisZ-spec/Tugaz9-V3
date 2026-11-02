@@ -17,12 +17,12 @@ body {
     background:
         radial-gradient(
             circle at top left,
-            rgba(128, 0, 255, 0.20),
+            rgba(5, 0, 10, 0.2),
             transparent 40%
         ),
         radial-gradient(
             circle at bottom right,
-            rgba(90, 0, 180, 0.18),
+            rgba(11, 0, 22, 0.18),
             transparent 40%
         ),
         #09090d;
